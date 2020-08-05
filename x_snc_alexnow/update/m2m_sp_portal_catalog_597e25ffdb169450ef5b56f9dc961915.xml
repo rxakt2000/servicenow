@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="AlexNow Catalog">0b9c693fdb169450ef5b56f9dc9619b3</sc_catalog>
+        <sp_portal display_value="AlexNow">c82e29bfdb169450ef5b56f9dc96193e</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 03:10:42</sys_created_on>
+        <sys_id>597e25ffdb169450ef5b56f9dc961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AlexNow Catalog.AlexNow</sys_name>
+        <sys_package display_value="AlexNow" source="x_snc_alexnow">03e8a5f7db169450ef5b56f9dc961972</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AlexNow">03e8a5f7db169450ef5b56f9dc961972</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_597e25ffdb169450ef5b56f9dc961915</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 03:10:42</sys_updated_on>
+    </m2m_sp_portal_catalog>
+</record_update>
